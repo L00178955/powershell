@@ -1,0 +1,2 @@
+[datetime]$OGGI = "12/25/2023"
+$OGGI

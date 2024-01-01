@@ -1,0 +1,5 @@
+$MyArray = "R", "A", "J", "A"
+foreach ($Letter in $MyArray)
+{
+    $Letter
+}

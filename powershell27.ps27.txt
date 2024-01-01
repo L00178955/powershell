@@ -1,0 +1,4 @@
+for (<Init>; <Condition>; <Repeat>)
+{
+    <Statement list>
+}
